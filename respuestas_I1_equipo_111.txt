@@ -1,2 +1,4 @@
 a) alfa si ve los datos
 b) si, los demas integrantes ven los archivos
+c) si, los demás ven los archivos
+d) por discord
